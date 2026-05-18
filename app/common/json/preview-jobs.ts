@@ -1,0 +1,38 @@
+export const previewJobs = [
+    {
+        id: '1',
+        title: 'Frontend Developer',
+        company: 'Kinetic Studio',
+        location: 'Bandung, ID',
+        type: 'Full-time',
+        salary: 'Rp8.000.000 - Rp12.000.000',
+        tags: ['Vue', 'Nuxt', 'TypeScript'],
+    },
+    {
+        id: '2',
+        title: 'UI/UX Designer',
+        company: 'Pixel Craft',
+        location: 'Jakarta, ID',
+        type: 'Hybrid',
+        salary: 'Rp7.000.000 - Rp10.000.000',
+        tags: ['Figma', 'Design System', 'Prototype'],
+    },
+    {
+        id: '3',
+        title: 'Backend Engineer',
+        company: 'Confidential',
+        location: 'Remote',
+        type: 'Remote',
+        salary: 'Login untuk melihat detail',
+        tags: ['Node.js', 'API', 'PostgreSQL'],
+    },
+    {
+        id: '4',
+        title: 'Product Manager',
+        company: 'Confidential',
+        location: 'Remote',
+        type: 'Full-time',
+        salary: 'Login untuk melihat detail',
+        tags: ['Strategy', 'Analytics', 'Roadmap'],
+    },
+]
